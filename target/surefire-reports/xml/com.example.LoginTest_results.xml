@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Surefire test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.512">
+    <properties></properties>
+
+
+
+            <testcase
+                name="openHomePage"
+                time="0.095"
+                classname="com.example.LoginTest">
+            </testcase>
+            <testcase
+                name="basicAuth"
+                time="0.473"
+                classname="com.example.LoginTest">
+            </testcase>
+            <testcase
+                name="loginCorrecto"
+                time="0.537"
+                classname="com.example.LoginTest">
+            </testcase>
+            <testcase
+                name="abTcontrol"
+                time="1.407"
+                classname="com.example.LoginTest">
+            </testcase>
+</testsuite>

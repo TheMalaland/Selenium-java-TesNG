@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Surefire test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.180">
+    <properties></properties>
+
+
+
+            <testcase
+                name="dropdownFeature"
+                time="1.045"
+                classname="com.advanced.AdvancedTest">
+            </testcase>
+            <testcase
+                name="dropdownFeatureText"
+                time="0.135"
+                classname="com.advanced.AdvancedTest">
+            </testcase>
+</testsuite>
